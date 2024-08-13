@@ -1,4 +1,4 @@
-Name,Gender,Age,Gender_bin,Age Group
+Name,Gender,Age,Gender_bin,Age_Group
 train_pfstar/001f12bh_digits1.wav,f,12,0,10-13
 train_pfstar/001f12bh_digits6.wav,f,12,0,10-13
 train_pfstar/001f12bh_list_1.wav,f,12,0,10-13
