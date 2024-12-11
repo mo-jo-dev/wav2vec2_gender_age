@@ -1,11 +1,2 @@
-Files/layer_test_features/
-Files/layer_train_features/
-test_pfstar/
-train_pfstar/
-Files/layer_features_base_100/
-Files/layer_features_base_960h/
-Files/layer_features_lv60_self/
-Files/lyer_features_lv60_selff/
-Files/Hubert_large/
-Files/Data2Vec_Large
-Files/micro-wavllm-large
+Files/dataset/
+Files/extracted_features/
