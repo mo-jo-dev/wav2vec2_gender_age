@@ -1,2 +1,4 @@
 Files/dataset/
 Files/extracted_features/
+Model/saved_models/
+Files/confusion_matrix/
